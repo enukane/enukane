@@ -31,3 +31,9 @@ Raspberry Pi & PiTFT based, field 802.11 frame capturing device
 - Providing stable and broadband Wi-Fi network in large-scale convention
 - Survey and research on congested Wi-Fi environment
 - Understanding implementation of kernel, OS; especially network subsystem
+
+## etc
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enukane&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enukane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
